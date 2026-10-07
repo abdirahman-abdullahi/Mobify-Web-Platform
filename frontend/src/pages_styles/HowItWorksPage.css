@@ -1,0 +1,16 @@
+.how-it-works-page {
+  padding-top: 80px;
+}
+
+.how-it-works-page-header {
+  text-align: center;
+}
+
+.how-it-works-page-header h1 {
+  font-size: 42px;
+  margin-bottom: 10px;
+}
+
+.how-it-works-page-header p {
+  color: #64748b;
+}

@@ -1,0 +1,17 @@
+.apply-page {
+  padding: 80px 0;
+}
+
+.apply-page-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.apply-page-header h1 {
+  font-size: 42px;
+  margin-bottom: 10px;
+}
+
+.apply-page-header p {
+  color: #64748b;
+}

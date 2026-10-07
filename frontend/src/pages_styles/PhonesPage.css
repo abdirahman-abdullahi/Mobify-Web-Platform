@@ -1,0 +1,23 @@
+.phones-page {
+  padding: 80px 0;
+}
+
+.phones-page-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.phones-page-header h1 {
+  font-size: 42px;
+  margin-bottom: 10px;
+}
+
+.phones-page-header p {
+  color: #64748b;
+}
+
+.phones-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
